@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40953" started-at="2021-03-06T10:00:18Z" finished-at="2021-03-06T10:00:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40953" started-at="2021-03-06T10:00:18Z" finished-at="2021-03-06T10:00:59Z">
+      <class name="incubyte_Script.incubyte_Script.GmailCompose">
+        <test-method status="PASS" signature="driversetup()[pri:0, instance:incubyte_Script.incubyte_Script.GmailCompose@cc285f4]" name="driversetup" duration-ms="40884" started-at="2021-03-06T15:30:18Z" finished-at="2021-03-06T15:30:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driversetup -->
+      </class> <!-- incubyte_Script.incubyte_Script.GmailCompose -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
